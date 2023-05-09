@@ -4,10 +4,10 @@ import re
 from rich import print
 
 # Chemin d'accès complet du fichier de logs de Lunar Client.
-log_file_path = 'C:/Users/Natanaël/.lunarclient/offline/multiver/logs/latest.log'
+log_file_path = ''
 
 # ID d'utilisateur et jeton d'API Wizebot.
-api_token = 'bc284eb4e8ebc389772cd118ef7d6a77c805503aaca67eb97aaefc9da09fca45'
+api_token = ''
 
 # Nom de la variable Wizebot à mettre à jour.
 variable_name = 'ipserver'

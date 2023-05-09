@@ -1,8 +1,0 @@
-# Les Alias permettent de remplacer le texte par un autre texte.
-# Utiles pour ne pas leak l'IP d'un serveur privé
-# Ou si l'IP d'un serveur ne correspond pas à celle rentrée dans le menu multijoueur
-
-# Exemple en dessous
-tcpshield.craftok.fr craftok.fr
-ip.tropbeau Serveur Privé
-ip.tropbeau ip.tropbeau (De la 1.8 à la 1.19 Crack Autorisé)

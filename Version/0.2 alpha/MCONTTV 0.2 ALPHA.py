@@ -3,13 +3,13 @@
 #####################################################################
 
 # Chemin d'accès vers les logs de ton Minecraft
-logs = "C:/Users/Natanaël/.lunarclient/offline/multiver/logs/latest.log"
+logs = ""
 # Exemple : 
 # Lunar = C:/Users/Natanaël/.lunarclient/offline/multiver/logs/latest.log
 # Badlion = C:/Users/Natanaël/AppData/Roaming/.minecraft/logs/blclient/minecraft/latest.log
 # Minecraft/Feather = C:/Users/Natanaël/AppData/Roaming/.minecraft/logs/latest.log
 
-tokenwzbot = "bc284eb4e8ebc389772cd118ef7d6a77c805503aaca67eb97aaefc9da09fca45"
+tokenwzbot = ""
 # Lien pour trouver son token Wizebot : 
 # https://panel.wizebot.tv/development_api_management
 # Et veiller utiliser la "Clé d'authentification API [RW] (Lecture / Écriture)"
