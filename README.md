@@ -1,5 +1,9 @@
 # MC-ON-TTV
 Les IP des serveurs Minecraft sur le Bot Twitch [WizeBot](https://wizebot.tv/) ! 
+# Les libraires a instaler sur python 
+1. requests: `pip install requests`
+2. tailer: `pip install tailer`
+3. rich:  `pip install rich`
 # Comment l'utiliser ?
 1. Aller dans le fichier
 2. Dans les options changer les logs et votre token [Wizebot](https://panel.wizebot.tv/development_api_management)
