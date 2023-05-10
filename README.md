@@ -1,6 +1,6 @@
 # MC-ON-TTV
 Les IP des serveurs Minecraft sur le Bot Twitch [WizeBot](https://wizebot.tv/) ! 
-# Les libraires a instaler sur python 
+# Les libraires à installer sur python 
 1. requests: `pip install requests`
 2. tailer: `pip install tailer`
 3. rich:  `pip install rich`
