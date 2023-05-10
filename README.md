@@ -7,4 +7,4 @@ Les IP des serveurs Minecraft sur le Bot Twitch [WizeBot](https://wizebot.tv/) !
 (Les ip peuvent être changable dans l'alias.txt)
 4. Sur WizeBot dans votre commande veiller mettre "$custom_data(get, serverip)" comme variable.
 # Bug ? Probleme ?
-Vener sur mon Discord : dsc.gg/nat0uille !
+Vener sur mon Discord : [dsc.gg/nat0uille](https://dsc.gg/nat0uille) !
