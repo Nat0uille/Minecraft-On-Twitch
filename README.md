@@ -6,8 +6,8 @@ Outil simple pour Wizebot avec Minecraft.
 # Comment l'utiliser ?
 1. Demarrer le **.exe** (**Si Windows vous affiche que le fichier est dangereux faite afficher plus et exécuter quand même**)
 2. Aller dans le `options.json` puis modifier les infomations suivantes : \
-**"logs_path"**: "LOGS", 
-**Quelque Exemples de chemin de logs**
+**"logs_path"**: "LOGS", \
+## Quelque Exemples de chemin de logs 
 **Lunar** "C:/Users/NOM UTILISATEUR/.lunarclient/offline/multiver/logs/latest.log" \
 **Badlion** "C:/Users/NOM UTILISATEUR/AppData/Roaming/.minecraft/logs/blclient/minecraft/latest.log" \
 **Minecraft/Feather** "C:/Users/NOM UTILISATEUR/AppData/Roaming/.minecraft/logs/latest.log" \
